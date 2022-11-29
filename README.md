@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @CetinGuven
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP (Backend Developer)
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Cetin
+- 🌱 I’m currently learning PHP 
 - 📫 How to reach me cetinguveen@gmail.com
 
 <!---
