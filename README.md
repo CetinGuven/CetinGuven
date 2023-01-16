@@ -1,6 +1,6 @@
                                                         👋 Hi, I’m Cetin Güven
-- 🌱 I’m currently  working on blockchain developer
-- 💬 Ask me about anything I'm happy to help
+- 🌱 I’m currently working on blockchain developer
+- 💬 Ask me about smart contract and blockchain 
 - 📫 How to reach me cetinguveen@gmail.com
 
 
