@@ -1,7 +1,7 @@
    <h1 align="center">Hi 👋, I'm Çetin</h1>
 <h3 align="center">Jr Back End Developer</h3>
 
- 💬 Ask me about **Php**
+ 💬 Ask me about Php
 
  📫 How to reach me **cetinguveen@gmail.com**
 
