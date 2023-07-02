@@ -1,9 +1,9 @@
    <h1 align="center">Hi 👋, I'm Çetin</h1>
-<h3 align="center">I'm Jr Backend developer</h3>
+<h3 align="center">I'm Jr Back end Developer</h3>
 
-- 💬 Ask me about **PHP**
+ 💬 Ask me about **PHP**
 
-- 📫 How to reach me **cetinguveen@gmail.com**
+ 📫 How to reach me **cetinguveen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
