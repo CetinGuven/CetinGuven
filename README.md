@@ -7,7 +7,7 @@
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="Çetin Güven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Çetin Güven" height="30" width="20" /></a>
+<a href="Çetin Güven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Çetin Güven" height="10" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
