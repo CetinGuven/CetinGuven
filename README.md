@@ -5,7 +5,7 @@
  
  📫 How to reach me **cetinguveen@gmail.com**
 
-<h3 align="left">🌐Socials:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="Çetin Güven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/çetin-güven-304085282" height="30" width="40" /></a>
 </p>
